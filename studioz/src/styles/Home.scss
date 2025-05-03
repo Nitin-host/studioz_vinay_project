@@ -1,0 +1,10 @@
+.home-container{
+    .commercial-content{
+        .content-border {
+            display: inline-flex;
+            align-items: center;
+            border-bottom: 2px solid #000; /* Customize color & thickness */
+            padding-bottom: 0.5rem; /* Adjust spacing */
+        }
+    }
+}
